@@ -6,7 +6,7 @@
 
 ## What We Build at ColumnUI 🛠️
 
-**ColumnUI** builds **user-interfaces** specially for back-end projects, it provides responsive single-page-applications for an existing APIs, or logical **interactive interfaces**.
+**ColumnUI** specializes in building **user interfaces** tailored for back-end projects. It delivers responsive **single-page applications** that seamlessly integrate with existing APIs or provide logical, **interactive interfaces** for enhanced user experiences.
 
 ### Who We Serve 🌍
 
