@@ -1,6 +1,10 @@
 # Welcome to ColumnUI 🌟
 
+[![Front-end](https://skillicons.dev/icons?i=html,css,js,vite,react,redux)](https://skillicons.dev)
+
 ## Overview 📋
+
+UI for seamless back-end integration. Powered by React & Redux, it provides responsive single-page applications for existing APIs.
 
 ---
 
