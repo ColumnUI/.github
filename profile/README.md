@@ -2,8 +2,6 @@
 
 [![Front-end](https://skillicons.dev/icons?i=html,css,js,vite,react,redux)](https://skillicons.dev)
 
----
-
 ## What We Build at ColumnUI 🛠️
 
 **ColumnUI** specializes in creating **user interfaces** for back-end projects. It delivers responsive **single-page applications** that integrate seamlessly with existing **APIs** or provide logical, **interactive interfaces**, enabling enhanced user experiences tailored to complex back-end systems.  
